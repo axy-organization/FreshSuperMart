@@ -1,0 +1,11 @@
+# FreshSuperMart Inventory
+# Format: name | category | in_stock | price_per_unit
+
+[packed]
+chips | snack | yes | 1.50
+nachos | snack | yes | 2.20
+
+[frozen]
+onion_rings | snack | yes | 2.80
+spring_rolls | snack | no | 3.50
+potato_fries | snack | yes | 2.90
