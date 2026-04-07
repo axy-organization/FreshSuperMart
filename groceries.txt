@@ -1,0 +1,22 @@
+# FreshSuperMart Inventory
+# Format: name | category | in_stock | price_per_unit
+
+[staples]
+rice | grocery | yes | 2.00
+pasta | grocery | yes | 1.80
+oats | grocery | no | 2.90
+
+[condiments]
+sugar | grocery | yes | 1.60
+salt | grocery | yes | 0.80
+
+[oils]
+olive_oil | grocery | yes | 16.50
+sunflower_oil | grocery | yes | 5.50
+
+[baking needs]
+flour | grocery | no | 2.40
+soda | grocery | no | 0.80
+
+[canned food]
+baked_beans | grocery | no | 2.10
