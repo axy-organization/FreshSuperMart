@@ -1,5 +1,6 @@
 # FreshSuperMart Inventory
 # Format: name | category | in_stock | price_per_unit
+# all units are in kilograms
 
 [fruits]
 apple | fruit | yes | 3.00
