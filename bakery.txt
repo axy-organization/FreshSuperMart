@@ -1,0 +1,13 @@
+[bakery]
+# FreshSuperMart — Bakery Inventory
+# Format: name | type | in_stock | price_per_unit 
+
+white-bread         | bread   | yes | 2.50
+wholemeal-bread     | bread   | yes | 3.00
+sourdough           | bread   | no  | 5.50
+croissant           | pastry  | yes | 1.80
+chocolate-muffin    | pastry  | yes | 2.20
+blueberry-muffin    | pastry  | no  | 2.20
+bagel               | bread   | no  | 1.50
+focaccia            | bread   | no  | 4.00
+

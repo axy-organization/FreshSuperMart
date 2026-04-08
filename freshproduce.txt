@@ -1,13 +1,18 @@
 # FreshSuperMart Inventory
 # Format: name | category | in_stock | price_per_unit
+# all units are in kilograms
 
 [fruits]
 apple | fruit | yes | 3.00
 banana | fruit | yes | 1.50
-mango | fruit | no | 4.50
+mango | fruit | yes | 4.50
 
 [vegetables]
 spinach | vegetable | yes | 2.20
 broccoli | vegetable | no | 2.80
 tomato | vegetable | yes | 1.80
 cucumber | vegetable | yes | 1.20
+potato | vegetable | yes | 3.00
+zucchini | vegetable | no | 4.00
+winter melon | vegetable | no | 2.30
+
