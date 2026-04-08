@@ -5,7 +5,7 @@
 [fruits]
 apple | fruit | yes | 3.00
 banana | fruit | yes | 1.50
-mango | fruit | no | 4.50
+mango | fruit | yes | 4.50
 
 [vegetables]
 spinach | vegetable | yes | 2.20
